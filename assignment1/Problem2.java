@@ -1,10 +1,10 @@
+/* Student Name: <your name>, Lab Section: <your lab section #> */
 package assignment1;
 
 import java.util.Scanner;
 
 public class Problem2 {
     public static void main(String[] args) {
-        System.out.println("Enter a string:");
         Scanner sc = new Scanner(System.in);
 
         String s = sc.nextLine();
